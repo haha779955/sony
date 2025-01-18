@@ -1,4 +1,4 @@
-#EXTINF:1
+#EXTM3U#EXTINF:-1
 http://tv.cloudcdn.me:80/live.ts?channelId=184&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://tv.cloudcdn.me:80/live.ts?channelId=28126&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://tv.cloudcdn.me:80/live.ts?channelId=183&uid=15301&deviceMac=00:1A:79:1D:53:3F
